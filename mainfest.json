@@ -1,0 +1,9 @@
+{
+  "name": "KMW Metalworking",
+  "short_name": "KMW",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#B5252E",
+  "theme_color": "#B5252E",
+  "description": "Precision Metalworking & Tech Solutions in the North West of Ireland"
+}
